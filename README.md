@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/a/qTJ1ypl)
+[![MasterHead](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Muzafar</h1>
 <h3 align="center">A passionate Data Scientist from Malaysia</h3>
 <img align="right" alt="Coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
