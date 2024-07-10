@@ -1,7 +1,7 @@
 ![Header](https://github.com/muzzymoose/muzzymoose/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Muzafar</h1>
 <h3 align="center">A passionate Data Scientist from Malaysia</h3>
-<img align="right" alt="Coding" width="200" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
+<img align="right" alt="Coding" width="300" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
 - 🔭 I’m currently working on **personal projects in Data Science**
 
