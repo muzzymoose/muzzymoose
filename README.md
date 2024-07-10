@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image (1).png)
 <h1 align="center">Hi 👋, I'm Muzafar</h1>
 <h3 align="center">A passionate Data Scientist from Malaysia</h3>
 <img align="right" alt="Coding" width="200" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
