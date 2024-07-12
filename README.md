@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and machine learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/muzzymoose](https://github.com/muzzymoose)
+- 👨‍💻 All of my projects are available at [https://github.com/muzzymoose](https://github.com/muzzymoose/Data-Science-Projects)
 
 - 💬 Ask me about **Statistics, Python, Guitars**
 
