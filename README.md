@@ -24,7 +24,7 @@
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
 
-Language :
+Languages :
 | python3  | 
 | ------------- |
 |  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>  | 
