@@ -1,4 +1,4 @@
-![Header](https://github.com/muzzymoose/muzzymoose/blob/main/github-header-image%20(1).png)
+![Header](https://github.com/muzzymoose/muzzymoose/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner2.png)
 <h1 align="center">Hi 👋, I'm Muzafar</h1>
 <h3 align="center">A passionate Data Scientist from Malaysia</h3>
 <img align="right" alt="Coding" width="300" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
