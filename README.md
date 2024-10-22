@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Statistics, Python, Guitars**
 
-- 📫 How to reach me **ahmad.muzz@yahoo.co.uk**
+- 📫 How to reach me **ahmadmuzz@gmail.com**
 
 - ⚡ Fun fact **I am a health freak**
 
