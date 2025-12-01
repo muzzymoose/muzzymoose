@@ -1,52 +1,112 @@
 ![Header](https://github.com/muzzymoose/muzzymoose/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner2.png)
-<h1 align="center">Hi 👋, I'm Muzafar</h1>
-<h3 align="center">A passionate Data Scientist from Malaysia</h3>
-<img align="right" alt="Coding" width="300" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
+# 👋 Hi, I'm Muzafar
 
-- 🔭 I’m currently working on **personal projects in Data Science**
+### Data Scientist | AI Agent Builder | Analytics Engineer from Malaysia 🇲🇾
 
-- 🌱 I’m currently learning **Python and machine learning**
+I transform complex data into actionable insights and build intelligent automation solutions. Currently exploring the intersection of data analytics and AI agents.
 
-- 👨‍💻 All of my projects are available at [https://github.com/muzzymoose](https://github.com/muzzymoose/Data-Science-Projects)
+---
 
-- 💬 Ask me about **Statistics, Python, Guitars**
+## 🚀 What I'm Working On
 
-- 📫 How to reach me **ahmadmuzz@gmail.com**
+- 🤖 **Building AI agents** using Copilot Studios and Azure AI Foundry
+- 📊 **Enterprise analytics** with Databricks and PySpark for feature adoption systems
+- 🔧 **Automation workflows** using Power Automate and intelligent process design
+- 📈 **Scaling data solutions** with Azure DevOps and version control best practices
 
-- ⚡ Fun fact **I am a health freak**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmad-muzafar-azman-a31b1568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-muzafar-azman-a31b1568" height="30" width="40" /></a>
-<a href="https://instagram.com/muzzymoose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muzzymoose" height="30" width="40" /></a>
-</p>
+## 💡 Tech Stack
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> 
+### **Data & Analytics**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Languages :
-| python3  | 
-| ------------- |
-|  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>  | 
+### **AI & Automation**
+![Azure](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot_Studios-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-181818?style=for-the-badge&logo=anthropic&logoColor=white)
+![Devin](https://img.shields.io/badge/Devin_AI-7C3AED?style=for-the-badge&logo=ai&logoColor=white)
 
-<br>
+### **Development Tools**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
- Best framework and main python3 libraries :
-| numpy  | pandas | sklearn | matpltlib  | seaborn  | tensorflow | statsmodels |
-| ------------- | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
-| <a href="https://numpy.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="60" height="60"/> </a>  | <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a>  | <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="python" width="60" height="60"/> </a> | <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="60" height="60"/> </a>  | <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" height="60"/> </a>  |<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line.svg" width="60" height="60"/> </a> | <a href="https://www.statsmodels.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://www.statsmodels.org/dev/_images/statsmodels-logo-v2-no-text.svg" width="60" height="60"/> </a> |
+### **Data Visualization & BI**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<br>
+### **Machine Learning & Stats**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-4051B5?style=for-the-badge&logo=python&logoColor=white)
 
- My tools for data manipulation and visualization :
-| conda | jupyter | powerbi  | excel  |
-|  ------------- | ------------- | ------------- | ------------- |
-|  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="60" height="60"/> </a>  | <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60"/> </a> | <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" height="60"/> </a>  | <a href="https://www.microsoft.com/en-my/microsoft-365/excel"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="60" height="60"/> </a>  |
+### **Collaboration & PM**
+![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
 
+---
 
- My tools for database management :
-| postgres  | dbvisualizer |
-| ------------- | ------------- | 
-| <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a>   | <a href="https://www.dbvis.com/brand-assets/" target="_blank" rel="noreferrer"> <img src="https://www.dbvis.com/wp-content/uploads/2023/08/dbvisualizer_logo_squircle.svg" width="60" height="60"/> </a>  |
+## 🎯 Featured Projects
+
+### 📊 [TrueSight Feature Adoption Analytics](https://github.com/muzzymoose/Data-Science-Projects)
+**Enterprise-scale analytics platform** for product feature adoption
+- Built generalized PySpark framework analyzing 30+ products across Access Group
+- Developed Z-score benchmarking methodology for customer segmentation
+- Created automated FMEA process documentation for data quality assurance
+- **Tech**: PySpark, Databricks, Azure DevOps, Power BI
+
+### 🤖 [Evo Builder - Product Recommendation Engine](https://github.com/muzzymoose/Data-Science-Projects)
+**AI-powered cross-selling recommendation system**
+- Implemented PageRank algorithm for product affinity analysis
+- Designed structured prompt framework for no-code AI applications
+- Built interactive dashboard for sales intelligence
+- **Tech**: Python, GraphFrames, Databricks, React
+
+### 🏦 [Banking Marketing Campaign Optimization](https://github.com/muzzymoose/Data-Science-Projects)
+**Predictive analytics for marketing effectiveness**
+- Machine learning models for customer conversion prediction
+- Comprehensive EDA and feature engineering pipeline
+- Deployment-ready model evaluation framework
+- **Tech**: Python, scikit-learn, pandas, matplotlib
+
+---
+
+## 📚 Currently Learning
+
+- 🧠 **Deep Learning** - Neural networks and computer vision
+- 💬 **Natural Language Processing** - LLMs and text analytics  
+- 👁️ **Computer Vision** - Image recognition and processing
+- 🔮 **MLOps** - Production ML pipelines and model deployment
+
+---
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-muzafar-azman-a31b1568)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muzzymoose)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadmuzz@gmail.com)
+
+---
+
+## ⚡ Fun Facts
+
+- 🎸 Guitar enthusiast who finds rhythm in both music and data patterns
+- 💪 Health freak - optimizing body and mind
+- 📊 Believer in data-driven decisions, from fitness to finance
+- 🌏 Based in Selangor, Malaysia
+
+---
+
+<div align="center">
   
-  </p>
+### "Turning data into decisions, one insight at a time"
+
+![Profile Views](https://komarev.com/ghpvc/?username=muzzymoose&color=blueviolet&style=for-the-badge)
+
+</div>
